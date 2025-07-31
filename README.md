@@ -1,4 +1,5 @@
-# Run and deploy your AI Studio app
+Ashway LipDetox
+
 
 This contains everything you need to run your app locally.
 
